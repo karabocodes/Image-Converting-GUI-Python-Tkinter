@@ -1,0 +1,6 @@
+for using image conversion app
+first install pillow in your system
+
+1. open your cmd/ terminal
+2. type there pip install pillow 
+3. and thats it you can use python script now!
