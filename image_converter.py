@@ -7,8 +7,7 @@ Dependencies:
 - Tkinter for GUI
 - Pillow (PIL) for image processing
 
-Developed By: Shailendra Kumar
-Contact: www.facebook.com/shailendrakr007
+Developed By: Karabo khunou
 
 Usage:
 - Run the script.
@@ -61,7 +60,7 @@ def jpg_to_pdf():
 Label_1 = Label(root, text="Browse A File", width=20, font=("bold", 15))
 Label_1.place(x=80, y=80)
 
-Label_3 = Label(root, text="</Developed By:-Shailendra kumar/> \n DM me for further query: www.facebook/shailendrakr007", width=80, font=("bold", 8))
+Label_3 = Label(root, text="</Developed By:-karabo/>", width=80, font=("bold", 8))
 Label_3.place(x=10, y=365)
 
 Button(root, text="JPG_to_PNG", width=20, height=2, bg="brown", fg="white", command=jpg_to_png).place(x=120, y=120)
